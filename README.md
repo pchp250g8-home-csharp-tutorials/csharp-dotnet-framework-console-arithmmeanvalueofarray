@@ -1,3 +1,5 @@
+ArithmMeanValueOfArray. C# Tutorials. DotNet Framework Platform. Arrays. Algorithms. Simple Input/Output. Console Application. 
+
 A console application project written in C# and implemented in the Microsoft Visual Studio IDE. .NetFrameWork platform. Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
 
 The program does the following:
